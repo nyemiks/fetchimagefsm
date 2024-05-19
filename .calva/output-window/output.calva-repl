@@ -1,0 +1,6 @@
+(def s2 (fsm/transition fetch-image-machine s1 {:type :BUTTON_CLICKED}))
+#'fetchimagefsm.views/s2
+cljs꞉fetchimagefsm.views꞉> 
+; nREPL connection failed: Error: read ECONNRESET
+; Failed connecting.
+; nREPL Connection was closed
